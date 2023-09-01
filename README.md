@@ -1,1 +1,1 @@
-# animated-waffle
+#  problem-solving & algorithm-study 😎
